@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## As the inverse of a matrix may take a while to proces, the following
 ## functions do
 
 ## Write a short comment describing this function
